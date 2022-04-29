@@ -2,7 +2,7 @@ export interface Movie {
 
     Title:string,
     Year:number,
-    imbID:string
+    imdbID:string,
     Type:string,
     Poster:string
     
